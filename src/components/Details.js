@@ -7,7 +7,7 @@ function Details() {
             <img src = "" alt ="" />
             </div> 
             <h3 className = "details_title">Song Title</h3>
-            <h3 className = "details_artist">Song artist</h3> 
+            <h3 className = "details_artist">Song Artist</h3> 
 
     </div>
   );

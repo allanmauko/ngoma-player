@@ -12,7 +12,7 @@ function Player(props) {
         } else {
             audioElement.current.false()
         }
-    }, []);
+    }, [])
     // const skipSong = (forwards = true)
   return (
     <div className = "player">
